@@ -14,6 +14,7 @@ b,c,d = 3,5,7
 print(b,c,d)
 
 
+
 #Best Practices
 # 1. Snake_case where by all are lowercase and  underscores
 # 2. Starts with lowercase or underscore
