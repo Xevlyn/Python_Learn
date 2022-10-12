@@ -12,3 +12,8 @@ print(type(2 - 4))
 print(2 ** 2) #to the power of
 print(10 // 7) #returns nad integer rounded down
 print(2 % 4) #modulo is used to represent whats the remainder of the division
+
+
+print(10 // 1)
+
+print(10 / 7)
