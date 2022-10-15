@@ -1,0 +1,2 @@
+
+print(basket.count('a'))
