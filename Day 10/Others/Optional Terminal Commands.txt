@@ -1,0 +1,21 @@
+1 ls command
+     Lists everything in the current directory.
+
+2. cd
+    Goes into a certain directory
+
+3. cd..
+    Brings you back to one directory up.
+
+4. cd/
+    Takes to the root directory.
+
+5. cd ~
+    Takes to the user directory.
+
+6. cls
+    Clears the screen.
+
+When you want to move to a given file depending on where u are currently located, you do this for example cd desktop/test
+
+I ran into multiple problems with the terminal so most of these I'll do with either my ubuntu or kali linux

@@ -1,0 +1,2 @@
+# Due to the machines limited resources, scope is used in the distribution of location in the memory for the various variables created.
+# The come in handy since this helps not to cause the computer to crash.

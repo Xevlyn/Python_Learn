@@ -1,0 +1,17 @@
+Methods
+    Terminal
+    Code editors 
+    IDEs.
+    Notebooks.
+
+
+Code editors:
+    These are light weight.
+    Give features.
+
+IDEs:
+    Full fledged environments.
+    Everything needed for certain languages.
+    examples include Pycharm.
+
+Notebooks.
